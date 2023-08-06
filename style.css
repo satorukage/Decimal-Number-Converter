@@ -1,0 +1,15 @@
+#head{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#para{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    background-color: black;
+}
+
+.meow{
+    color: aliceblue;
+}
